@@ -3,4 +3,4 @@
 - 🔭 I’m currently working on [SFML Pac-Man](https://github.com/BirdsArentRea1/SFML-PAC-MAN)
 - 🌱 I’m currently learning Unity
 - ⚡ Fun fact: Birds are Drones
-- 🪙 Invest in Ewancoin™
+- 🪙 Invest in ewancoin™
